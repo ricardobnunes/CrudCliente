@@ -1,0 +1,14 @@
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\bin\Debug\netcoreapp2.2\ClientesAPI.deps.json
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\bin\Debug\netcoreapp2.2\ClientesAPI.runtimeconfig.json
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\bin\Debug\netcoreapp2.2\ClientesAPI.runtimeconfig.dev.json
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\bin\Debug\netcoreapp2.2\ClientesAPI.dll
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\bin\Debug\netcoreapp2.2\ClientesAPI.pdb
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.RazorAssemblyInfo.cache
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.RazorAssemblyInfo.cs
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.AssemblyInfoInputs.cache
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.AssemblyInfo.cs
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.dll
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.pdb
+C:\Users\adq90420\source\repos\ClientesAPI\ClientesAPI\obj\Debug\netcoreapp2.2\ClientesAPI.csprojAssemblyReference.cache
