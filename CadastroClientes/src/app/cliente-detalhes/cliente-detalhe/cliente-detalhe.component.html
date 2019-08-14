@@ -1,9 +1,55 @@
-<form #form="ngForm" autocomplete="off">
-
+<form #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
     <div class="form-group">
-
-        <input name="NomeCompleto" #NomeCompleto="ngModel" [(ngModel)]="service.NomeCompleto" type="text" class="form-control" placeholder="Nome do Cliente">
-
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <div class="input-group-text bg-white">
+                    <i class="fas fa-user"></i>
+                </div>
+            </div>
+            <input name="NomeCompleto" #NomeCompleto="ngModel" [(ngModel)]="service.NomeCompleto" type="text" class="form-control" placeholder="Nome do Cliente" required max="">
+        </div>
     </div>
-
+    <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text bg-white">
+                        <i class="fas fa-file-code"></i>
+                    </div>
+                </div>
+                <input name="ClienteCod" #ClienteCod="ngModel" [(ngModel)]="service.ClienteCod" type="text" class="form-control" placeholder="Código do Cliente" required>
+            </div>
+        </div>
+    <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text bg-white">
+                        <i class="fas fa-mobile"></i>
+                    </div>
+                </div>
+                <input name="TelCliente" #TelCliente="ngModel" [(ngModel)]="service.TelCliente" type="text" class="form-control" placeholder="Telefone do Cliente" required> 
+            </div>
+    </div>
+    <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text bg-white">
+                            <i class="fas fa-id-card"></i>
+                    </div>
+                </div>
+                <input name="ClienteCPF" #ClienteCPF="ngModel" [(ngModel)]="service.ClienteCPF" type="text" class="form-control" placeholder="CPF" required>
+            </div>
+        </div>
+    <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <div class="input-group-text bg-white">
+                            <i class="far fa-id-card"></i>
+                    </div>
+                </div>
+                <input name="ClienteRG" #ClienteRG="ngModel" [(ngModel)]="service.ClienteRG" type="text" class="form-control" placeholder="RG" required>
+            </div>
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary btn-lg btn-block" type="submit"><i class="fas fa-save"></i> Adicionar</button>
+        </div>
 </form>
