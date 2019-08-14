@@ -1,0 +1,14 @@
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\bin\Debug\netcoreapp2.2\Web.Api.Crud.deps.json
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\bin\Debug\netcoreapp2.2\Web.Api.Crud.runtimeconfig.json
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\bin\Debug\netcoreapp2.2\Web.Api.Crud.runtimeconfig.dev.json
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\bin\Debug\netcoreapp2.2\Web.Api.Crud.dll
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\bin\Debug\netcoreapp2.2\Web.Api.Crud.pdb
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.csprojAssemblyReference.cache
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.csproj.CoreCompileInputs.cache
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.RazorAssemblyInfo.cache
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.RazorAssemblyInfo.cs
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.AssemblyInfoInputs.cache
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.AssemblyInfo.cs
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.RazorTargetAssemblyInfo.cache
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.dll
+C:\Users\adq90420\Documents\backp\Web.Api.Crud\obj\Debug\netcoreapp2.2\Web.Api.Crud.pdb
